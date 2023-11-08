@@ -1,0 +1,27 @@
+.list {
+  list-style: none;
+}
+
+.listContainer {
+  padding: 20px;
+  margin-bottom: 20px;
+  background: #fff;
+}
+
+.listHeader {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.pagination {
+  display: flex;
+}
+.button {
+  margin-right: 20px;
+}
+.listitem {
+  background-color: blue;
+}
+.listitembeer {
+  color:blue;
+}
